@@ -4,7 +4,7 @@
 I hold a Bachelor's degree in Civil Engineering from the University of Jordan (2020) and a Master's degree in Data Science from the University of Colorado Boulder (2024). I'm a self-taught individual passionate about experimenting with new ideas and continuously learning from life experiences.
 
 ## 🔍 Experience and Passion
-With nearly 2 years of experience in Engineering, Manufacturing, and Technical Sales, I developed a strong interest in Data Science. This passion led me to pursue a Master's degree in Data Science (Aug 2022 - July 2024) to apply advanced techniques to diverse domains.
+With nearly 2 years of experience in Engineering, Manufacturing, and Technical Sales, I developed a strong interest in Data Science. This passion led me to pursue a Master's degree in Data Science (Aug 2022 - June 2024) to apply advanced techniques to diverse domains.
 
 ## 📘 Check Out My Master's Degree Repository!
 
