@@ -24,7 +24,7 @@ I created this repository to share insights into the curriculum, showcase my aca
 Currently seeking a challenging role as a Data Scientist to leverage my unique blend of domain knowledge and data science skills.
 
 ## 🌍 Location and Interests
-Based in Amman, Jordan. I hold a valid visa for Saudi Arabia.
+Based in Amman, Jordan. I have the ability to issue a valid visit visa to Saudi Arabia when needed.
 
 ## ♟️ Hobbies
 In my free time, I enjoy participating in chess tournaments organized in Jordan.
