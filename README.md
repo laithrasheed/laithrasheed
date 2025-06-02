@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a Civil Engineer with a Master’s in Data Science from the University of Colorado Boulder, now specializing in Computer Vision. I apply full data science methodology to real-world problems through hands-on, end-to-end projects. With experience in precast concrete manufacturing (ARTIC) and applied data science in business (Listening247), I'm steadily building toward a long-term goal of leading impactful, data-driven solutions in the future.
+I'm a Civil Engineer with a Master’s in Data Science from the University of Colorado Boulder. I apply full data science methodology to real-world problems through hands-on, end-to-end projects. With experience in precast concrete manufacturing (ARTIC) and applied data science in business (Listening247), I'm steadily building toward a long-term goal of leading impactful, data-driven solutions in the future.
 
 ## 📘 Check Out My Master's Degree Repository!
 
